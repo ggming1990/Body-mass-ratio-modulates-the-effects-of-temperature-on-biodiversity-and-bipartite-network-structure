@@ -1,0 +1,1 @@
+We examined the effects of temperature (from 0°C to 50°C in 1°C increments) on network connectance, the standard deviation of connectance, species persistence, and the standard deviation of species persistence across 156 initial networks at each level (from 10(-3) to 10(6)) of mean body mass ratio. Here, R represents mean body mass ratio.
